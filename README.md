@@ -3,7 +3,7 @@
 ## 💫 About Me
 I'm passionate about software development and machine learning, and I find building applications that solve real-world challenges as satisfying as a cat finding the perfect sunbeam to nap in. 😺<br>
 - 🔭 I'm currently enrolled at Union University in Belgrade, Serbia, within the Faculty of Computing.
-- 🌱 Currently learning Computer Vision<br>
+- 🌱 Currently learning Cloud Computing<br>
 - 📫 How to reach me: vasilijejukic1@gmail.com<br>
 - ⚡ Fun fact: I enjoy playing the piano 🎹 and staying fit through calisthenics 💪
 
@@ -34,6 +34,7 @@ I'm passionate about software development and machine learning, and I find build
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white)
 
 🕓 **Version Control** &nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
@@ -47,6 +48,7 @@ I'm passionate about software development and machine learning, and I find build
 
 🔧 **Other**     
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 
 ## 📊 GitHub Stats
 [![](https://visitcount.itsvg.in/api?id=VasilijeJukic01&icon=0&color=1)](https://visitcount.itsvg.in)
