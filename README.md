@@ -3,7 +3,7 @@
 ## 💫 About Me
 I'm passionate about software development and machine learning, and I find building applications that solve real-world challenges as satisfying as a cat finding the perfect sunbeam to nap in. 😺<br>
 - 🔭 I'm currently enrolled at Union University in Belgrade, Serbia, within the Faculty of Computing.
-- 🌱 Currently learning Cloud Computing<br>
+- 🌱 Currently learning Distributed Systems<br>
 - 📫 How to reach me: vasilijejukic1@gmail.com<br>
 - ⚡ Fun fact: I enjoy playing the piano 🎹 and staying fit through calisthenics 💪
 
@@ -20,7 +20,7 @@ I'm passionate about software development and machine learning, and I find build
 🛠 **Backend**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 
 🖥️ **Frontend**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -35,6 +35,7 @@ I'm passionate about software development and machine learning, and I find build
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
 
 🕓 **Version Control** &nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
@@ -46,7 +47,8 @@ I'm passionate about software development and machine learning, and I find build
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 
-🔧 **Other**     
+🔧 **Cloud & DevOps**
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 
